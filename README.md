@@ -6,7 +6,10 @@
 | Processor Speed      | 1.0 GHz      |                
 | Storage | SDD 120 GB|                                
 | Memory | 128 MB      |                               
-| GPU | Nvidia GeForce 2 MX      |                      
+| GPU | Nvidia GeForce 2 MX      |   
+
+![image](https://github.com/RiyadSaid/Computer/assets/156184703/70d1ea2c-9a39-450c-8dcd-987a81b8d227)
+
 
 | MacBook Pro          | 2023            |
  | ------------- |:-------------:|
