@@ -18,3 +18,5 @@
    | Storage | SDD 994.66 GB|
    | Memory | 16 GB|
    | GPU | 10-core      |
+
+![image](https://github.com/RiyadSaid/Computer/assets/156184703/72b93788-29bb-4950-89e7-15124e5ede86)
