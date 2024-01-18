@@ -13,5 +13,5 @@
   | Processor Type      | Apple M3 |
   | Processor Speed      | 4.05 GHz      |
    | Storage | SDD 994.66 GB|
-    | Storage | SDD 994.66 GB|
+    | Memory | 16 GB|
       | GPU | 10-core      |
