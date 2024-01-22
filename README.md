@@ -10,7 +10,7 @@
 
 _______________
 
-| **iMac**          | __G4__            |                      
+| [**iMac**](https://en.wikipedia.org/wiki/IMac_G4)          | [__G4__](https://en.wikipedia.org/wiki/IMac_G4)            |                      
 | ------------- |:-------------:|                       
 | 1. Processor Type      | PowerPC 7445 (G4) |           
 | 2. Processor Speed      | 1.0 GHz      |                
@@ -24,7 +24,7 @@ _______________
 
 -------------------
 
-| __MacBook Pro__          | **2023**            |
+| [__MacBook Pro__](https://support.apple.com/kb/SP889)          | [**2023**](https://support.apple.com/kb/SP889)            |
  | ------------- |:-------------:|
   | 1. Processor Type      | Apple M3 |
   | 2. Processor Speed      | 4.05 GHz      |
