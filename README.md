@@ -1,5 +1,7 @@
 # Computer
 
+> This is a comparison between an old computer, the iMac G4, and an new one, the MacBook Pro 2023.
+
 [^1]
 
 | **iMac**          | __G4__            |                      
