@@ -1,6 +1,6 @@
 # Computer
 
-| # iMac          | # G4            |                      
+# | iMac          | G4            |                      
 | ------------- |:-------------:|                       
 | Processor Type      | PowerPC 7445 (G4) |           
 | Processor Speed      | 1.0 GHz      |                
@@ -11,7 +11,7 @@
 ![image](https://github.com/RiyadSaid/Computer/assets/156184703/70d1ea2c-9a39-450c-8dcd-987a81b8d227)
 
 
-| # MacBook Pro          | # 2023            |
+# | MacBook Pro          | 023            |
  | ------------- |:-------------:|
   | Processor Type      | Apple M3 |
   | Processor Speed      | 4.05 GHz      |
